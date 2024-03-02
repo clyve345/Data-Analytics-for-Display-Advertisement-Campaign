@@ -6,6 +6,7 @@
 3. Attributes - Time dimensions (time of day, day of week), Geography (country, province, country), payment type, Age category, new/recurring customers, frequency
 4. Product - products likely to sell together
 5. Customer Segmentation - By Revenue (high, medium, low)
+6. Random Forest classification
 
 **Data:** The dataset consist of sales data for all users who made a purchase through company X advertising campaign. 
 
