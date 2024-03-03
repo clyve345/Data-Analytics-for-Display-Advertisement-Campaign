@@ -1,5 +1,5 @@
 # **Project Title:** 
-EDA of telco Advertising Campaign for Brand X
+Brand Advertisement Sales Analysis
 
 # **Project Description:** 
 This is a data analytics project that focuses on EDA and visualization. This is how I break down the customer sales data:
