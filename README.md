@@ -7,9 +7,13 @@ This project encompasses comprehensive exploratory data analysis (EDA) and visua
 ## Key Components and Methodologies:
 
 Overall Analysis: Examination of total revenue and sales metrics to gauge the overarching performance of display campaign initiatives.
+
 Basket Analysis: Deconstruction of customer transactions to derive insights such as average quantity purchased, revenue per order, and the proportion of single versus multiple purchases, providing valuable insights into purchasing behaviors.
+
 Attribute Analysis: Exploration of various dimensions including time (e.g., time of day, day of week), geography (country, province), payment types, age categories, customer types (new/recurring), and purchase frequency, offering granular insights into customer demographics and preferences.
+
 Product Association: Identification of product combinations frequently purchased together to inform cross-selling and upselling strategies.
+
 Customer Segmentation: Utilization of advanced segmentation techniques, such as Random Forest classification, to categorize customers based on revenue levels (high, medium, low), facilitating targeted marketing efforts and personalized customer engagement.
 
 ## **Data:** 
