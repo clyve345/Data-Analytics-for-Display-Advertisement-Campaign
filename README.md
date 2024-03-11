@@ -1,16 +1,18 @@
 # **Project Title:** 
-Brand Advertisement Sales Analysis
+Data Analytics for Advertisement Display Campaign
 
-# **Project Description:** 
-This is a data analytics project that focuses on EDA and visualization. This is how I break down the customer sales data:
-1. Overall - total revenue, sales
-2. Basket - Avg quantity, revenue per order, % of single/multiple purchases, etc
-3. Attributes - Time dimensions (time of day, day of week), Geography (country, province, country), payment type, Age category, new/recurring customers, frequency
-4. Product - products likely to sell together
-5. Customer Segmentation - By Revenue (high, medium, low)
-6. Random Forest classification
+## **Project Description:** 
+This project encompasses comprehensive exploratory data analysis (EDA) and visualization techniques aimed at discerning the impact of display campaign advertisements on sales performance. The primary objective is to uncover actionable insights to optimize revenue generation, refine customer targeting strategies, and enhance overall business efficacy.
 
-# **Data:** 
+## Key Components and Methodologies:
+
+Overall Analysis: Examination of total revenue and sales metrics to gauge the overarching performance of display campaign initiatives.
+Basket Analysis: Deconstruction of customer transactions to derive insights such as average quantity purchased, revenue per order, and the proportion of single versus multiple purchases, providing valuable insights into purchasing behaviors.
+Attribute Analysis: Exploration of various dimensions including time (e.g., time of day, day of week), geography (country, province), payment types, age categories, customer types (new/recurring), and purchase frequency, offering granular insights into customer demographics and preferences.
+Product Association: Identification of product combinations frequently purchased together to inform cross-selling and upselling strategies.
+Customer Segmentation: Utilization of advanced segmentation techniques, such as Random Forest classification, to categorize customers based on revenue levels (high, medium, low), facilitating targeted marketing efforts and personalized customer engagement.
+
+## **Data:** 
 The dataset consist of sales data for all users who made a purchase through company X advertising campaign. 
 
 ## **Included in this project is:**
