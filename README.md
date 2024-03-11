@@ -15,6 +15,5 @@ The dataset consist of sales data for all users who made a purchase through comp
 
 ## **Included in this project is:**
 1. Jupyter notebook containing the code used
-2. Sales Dateset
-3. PDF report on my findings
-4. Power BI Dashboard
+2. PDF report on my findings
+3. Power BI Dashboard
