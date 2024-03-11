@@ -1,5 +1,5 @@
 # **Project Title:** 
-Data Analytics for Advertisement Display Campaign
+Data Analytics for Display Advertisement Campaign
 
 ## **Project Description:** 
 This project encompasses comprehensive exploratory data analysis (EDA) and visualization techniques aimed at discerning the impact of display campaign advertisements on sales performance. The primary objective is to uncover actionable insights to optimize revenue generation, refine customer targeting strategies, and enhance overall business efficacy.
