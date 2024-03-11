@@ -17,5 +17,4 @@ The dataset consist of sales data for all users who made a purchase through comp
 1. Jupyter notebook containing the code used
 2. Sales Dateset
 3. PDF report on my findings
-4. Powerpoint Presentation
-5. Power BI Dashboard
+4. Power BI Dashboard
