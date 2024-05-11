@@ -36,7 +36,7 @@ pip install pandas numpy matplotlib seaborn sklearn xgboost
 git clone https://github.com/yourusername/Data-Analytics-for-Display-Advertisement-Campaign.git
 ```
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
 ```bash
 cd Data-Analytics-for-Display-Advertisement-Campaign
 ```
