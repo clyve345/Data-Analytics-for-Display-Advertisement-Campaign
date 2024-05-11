@@ -21,10 +21,29 @@ Machine Learning: Utilization of Random Forest classification to predict if a cu
 ## **Data:** 
 The dataset consist of sales data for all users who made a purchase through company X advertising campaign. 
 
-## **Included in this project is:**
-1. Jupyter notebook containing the code used
-2. PDF report on my findings
-3. Power BI Dashboard
 
+## Installation and Setup Instructions
 
-Will be doing improvements overtime.
+Ensure you have Python 3.11.7 installed. You can install all required packages using the following command:
+
+```bash
+pip install pandas numpy matplotlib seaborn sklearn xgboost
+```
+
+## How to use
+1. Clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/Data-Analytics-for-Display-Advertisement-Campaign.git
+```
+
+3. Navigate to the project directory:
+```bash
+cd Data-Analytics-for-Display-Advertisement-Campaign
+```
+3.Run the Python scripts to perform the analysis and view results.
+
+## Contributing
+Currently, this project is not open for contributions. However, feel free to explore the models and use them as a reference for your data analytics projects.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
