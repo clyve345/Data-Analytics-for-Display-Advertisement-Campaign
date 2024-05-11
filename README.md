@@ -33,7 +33,7 @@ pip install pandas numpy matplotlib seaborn sklearn xgboost
 ## How to use
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Data-Analytics-for-Display-Advertisement-Campaign.git
+git clone https://github.com/clyve345/Data-Analytics-for-Display-Advertisement-Campaign.git
 ```
 
 2. Navigate to the project directory:
