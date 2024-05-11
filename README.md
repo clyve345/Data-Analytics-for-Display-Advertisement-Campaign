@@ -40,7 +40,7 @@ git clone https://github.com/yourusername/Data-Analytics-for-Display-Advertiseme
 ```bash
 cd Data-Analytics-for-Display-Advertisement-Campaign
 ```
-3.Run the Python scripts to perform the analysis and view results.
+3. Run the Python scripts to perform the analysis and view results.
 
 ## Contributing
 Currently, this project is not open for contributions. However, feel free to explore the models and use them as a reference for your data analytics projects.
